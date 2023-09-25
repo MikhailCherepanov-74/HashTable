@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Hash2808",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Hash2808::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hash2808-Debug-150caebe8f87d7d9f712.json",
+					"name" : "Hash2808",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/Hash2808/cmake-build-debug",
+		"source" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/Hash2808"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
